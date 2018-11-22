@@ -1,0 +1,6 @@
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\bin\Debug\PORTAL.DAL.dll
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\bin\Debug\PORTAL.DAL.pdb
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\bin\Debug\MySql.Data.DLL
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\obj\Debug\PORTAL.DAL.csprojResolveAssemblyReference.cache
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\obj\Debug\PORTAL.DAL.dll
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\PORTAL.DAL\obj\Debug\PORTAL.DAL.pdb

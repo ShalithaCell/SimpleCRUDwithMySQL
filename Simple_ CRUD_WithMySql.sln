@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_ CRUD_WithMySql", "Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql.csproj", "{3A5161AB-B8D7-4D91-835E-41E00658D7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PORTAL.MODEL", "PORTAL.MODEL\PORTAL.MODEL.csproj", "{035E0B32-5D29-47C5-AFA7-7A0B5EE3640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PORTAL.DAL", "PORTAL.DAL\PORTAL.DAL.csproj", "{DDEA84D3-19E5-46C8-B2F9-88E810829BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5161AB-B8D7-4D91-835E-41E00658D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5161AB-B8D7-4D91-835E-41E00658D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5161AB-B8D7-4D91-835E-41E00658D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5161AB-B8D7-4D91-835E-41E00658D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035E0B32-5D29-47C5-AFA7-7A0B5EE3640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035E0B32-5D29-47C5-AFA7-7A0B5EE3640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035E0B32-5D29-47C5-AFA7-7A0B5EE3640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035E0B32-5D29-47C5-AFA7-7A0B5EE3640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEA84D3-19E5-46C8-B2F9-88E810829BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEA84D3-19E5-46C8-B2F9-88E810829BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEA84D3-19E5-46C8-B2F9-88E810829BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEA84D3-19E5-46C8-B2F9-88E810829BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

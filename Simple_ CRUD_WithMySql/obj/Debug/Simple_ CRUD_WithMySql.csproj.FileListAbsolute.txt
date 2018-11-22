@@ -1,0 +1,15 @@
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\Simple_ CRUD_WithMySql.exe.config
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple_ CRUD_WithMySql.csprojResolveAssemblyReference.cache
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple__CRUD_WithMySql.Form1.resources
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple__CRUD_WithMySql.Properties.Resources.resources
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple_ CRUD_WithMySql.csproj.GenerateResource.Cache
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\Simple_ CRUD_WithMySql.exe
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\Simple_ CRUD_WithMySql.pdb
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\PORTAL.DAL.dll
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\PORTAL.MODEL.dll
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\MySql.Data.dll
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\PORTAL.DAL.pdb
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\bin\Debug\PORTAL.MODEL.pdb
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple_ CRUD_WithMySql.exe
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple_ CRUD_WithMySql.pdb
+c:\users\shali\documents\visual studio 2015\Projects\Simple_ CRUD_WithMySql\Simple_ CRUD_WithMySql\obj\Debug\Simple__CRUD_WithMySql.FrmUpdateItem.resources
