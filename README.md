@@ -2,7 +2,7 @@
 
 A simple and basic system to add, edit, delete and view using C# and MySQL.
 
-#Setup Local Environment
+# Setup Local Environment
 
  - Download the project.
  - go to project Simple_ CRUD_WithMySql -> App.config and find key 'AppConnection'.
