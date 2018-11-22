@@ -1,1 +1,1 @@
-# SimpleCRUDwithMySQL
+# Simple CRUD application with MySQL
